@@ -7,6 +7,6 @@ Taught by Ritika Giri Spring Quarter of 2024 Northwestern University's Research 
 -   Download the materials to your machine by clicking on the green "Code" button on the top right and selecting "Download ZIP".
 -   Unzip the downloaded folder, and double-click on the .ipynb file to open it up in your favorite code editor.
 
-Google Colab notebook [NSIP-Itertools](https://colab.research.google.com/github/nuitrcs/NSIP-itertools/blob/main/NSIP-itertools.ipynb)
+Google Colab notebook [NSIP-itertools]() 
 
 
